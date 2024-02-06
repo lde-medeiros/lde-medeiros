@@ -3,7 +3,7 @@
 
 <p align="center">🌱 I’m currently learning <strong>Object Oriented Programming in C++</strong></p>
 
-<p align="center">📫 How to reach me <strong>lucasjorgedemedeiros@gmail.com</strong></p>
+<p align="center">📫 How to reach me <strong><a href="mailto:lucasjorgedemedeiros@gmail.com">lucasjorgedemedeiros@gmail.com</a></strong></p>
 
 <p align="center">📄 Check out my Linkedin <a href="https://www.linkedin.com/in/lucas-demedeiros/" target="_blank">here</a></p>
 
