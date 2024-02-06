@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Lucas</h1>
+<h1 align="center">Hey 👋, I'm Lucas De Medeiros</h1>
 <h3 align="center">A Computer Programming & Analysis Student</h3>
 
 <p align="center">🌱 I’m currently learning <strong>Object Oriented Programming in C++</strong></p>
