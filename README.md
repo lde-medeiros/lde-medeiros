@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Lucas</h1>
 <h3 align="center">A Computer Programming & Analysis Student</h3>
 
-- 🌱 I’m currently learning **Object Oriented Programming in C++**
+<p align="center">🌱 I’m currently learning <strong>Object Oriented Programming in C++</strong></p>
 
-- 📫 How to reach me **lucasjorgedemedeiros@gmail.com**
+<p align="center">📫 How to reach me <strong>lucasjorgedemedeiros@gmail.com</strong></p>
 
-- 📄 Check out my Linkedin [https://www.linkedin.com/in/lucas-demedeiros/](https://www.linkedin.com/in/lucas-demedeiros/)
+<p align="center">📄 Check out my Linkedin <a href="https://www.linkedin.com/in/lucas-demedeiros/" target="_blank">here</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
