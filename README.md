@@ -20,7 +20,7 @@ Check out my work at **[lucasdm.dev](https://www.lucasdm.dev)**
 
 **Automation Developer Co-op · Ontario Government** `Jan–Aug 2025`
 
-Migrated a legacy UFT/VBScript test suite to **Selenium WebDriver (Java)**, built reusable test components for the CPIN case management platform, and wired it all into **Azure DevOps CI/CD** pipelines with Maven. You can find more details on my [portfolio](https://www.lucasdm.dev).
+Migrated a legacy UFT/VBScript test suite to **Selenium WebDriver (Java)**, built reusable test components for the CPIN case management platform, and wired it all into **Azure DevOps CI/CD** pipelines with Maven.
 
 ---
 
