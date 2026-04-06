@@ -5,6 +5,7 @@
 **Software Developer** · Toronto, Ontario
 
 I build reliable software, automate the tedious stuff, and care a lot about clean DevOps workflows.
+Check out my work at **[lucasdm.dev](https://www.lucasdm.dev)** 
 
 [![Resume](https://img.shields.io/badge/Resume-4f98a3?style=flat-square&logo=googledocs&logoColor=white)](https://www.lucasdm.dev/assets/documents/resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-demedeiros)
@@ -15,9 +16,11 @@ I build reliable software, automate the tedious stuff, and care a lot about clea
 
 ---
 
-### 💼 What I'm up to
+### 💼 Experience
 
-I've wrapped up a co-op with the **Ontario Government** as an Automation Developer, where I migrated a legacy UFT/VBScript test suite to **Selenium WebDriver (Java)**, built reusable test components for the CPIN case management platform, and plugged it all into **Azure DevOps CI/CD** pipelines with Maven.
+**Automation Developer Co-op · Ontario Government** `Jan–Aug 2025`
+
+Migrated a legacy UFT/VBScript test suite to **Selenium WebDriver (Java)**, built reusable test components for the CPIN case management platform, and wired it all into **Azure DevOps CI/CD** pipelines with Maven. You can find more details on my [portfolio](https://www.lucasdm.dev).
 
 ---
 
@@ -68,3 +71,11 @@ I've wrapped up a co-op with the **Ontario Government** as an Automation Develop
 **Seneca Polytechnic** — Computer Programming & Analysis `2023–2026`
 
 Certified in `DevOps` by PagerDuty · `Agile PM` by Atlassian · `Docker Foundations` · `Azure AI Essentials` by Microsoft
+
+---
+
+<div align="center">
+
+Want to see my projects? Head over to **[lucasdm.dev](https://www.lucasdm.dev)**
+
+</div>
